@@ -1,13 +1,13 @@
 # Python 3.9-compatible versions pinned to the last known working set before
 # packages dropped 3.9 support. Python 3.9 reached end-of-life on 2025-10-31.
-pip==24.2
+pip==26.1.2
 pip-tools==7.5.3
 flake8==7.3.0
 hashin==1.0.5
 pipenv==2024.4.1
 plette==2.1.0
-poetry==2.2.1
-pytest==8.3.5
+poetry==2.3.4
+pytest==9.0.3
 # tomli is required for Python <3.11 (stdlib tomllib was added in 3.11).
 tomli==2.2.1
 
